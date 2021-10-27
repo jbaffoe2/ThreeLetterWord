@@ -30,7 +30,7 @@ class ViewController: UIViewController
        
     }
 
-    
+    //Tap Gesture Action Function
     @IBAction func whenTapped(_ sender: Any)
     {
         currentLetter = letters[counter]
